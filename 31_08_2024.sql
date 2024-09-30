@@ -1,0 +1,6 @@
+--CREATE DATABASE OneToOneDB;
+--USE OneToOneDB;
+-- CREATE TABLE Person (
+--    id INT PRIMARY KEY AUTO_INCREMENT,
+--    name VARCHAR(50) NOT NULL
+-- );
